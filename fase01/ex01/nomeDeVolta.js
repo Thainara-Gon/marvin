@@ -1,5 +1,8 @@
-function nomeDeVolta(){
-    console.log("marvin")
-    return "O android paranÃ³ide"
+function mostrarNome() {
+console.log("Marvin")
+    
 }
-console.log(nomeDeVolta())
+function nomeDeVolta(){
+    console.log("O andróide paranóide")
+}
+
